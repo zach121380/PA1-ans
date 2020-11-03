@@ -47,7 +47,7 @@ typedef struct {
 
 	struct{
             uint32_t eax, ecx, edx, ebx, esp, ebp, esi, edi;
-	    
+	    //zhi c lian he ti
 	    union{
 		struct{
 			uint32_t CF:	1;

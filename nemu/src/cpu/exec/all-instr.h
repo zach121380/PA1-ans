@@ -32,5 +32,6 @@
 #include "con-trans/call.h"
 #include "data-mov/push.h"
 #include "logic/test.h"
+#include "con-trans/je.h"
 
 //#include "io/io.h"
